@@ -1,0 +1,5 @@
+com\example\demo\CourseContentApplication.class
+com\example\demo\content\Category.class
+com\example\demo\content\Course.class
+com\example\demo\content\ContentController.class
+com\example\demo\content\ContentService.class

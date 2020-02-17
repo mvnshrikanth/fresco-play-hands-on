@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.project.SpringBoot2ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.013 sec - in com.example.project.SpringBoot2ApplicationTests

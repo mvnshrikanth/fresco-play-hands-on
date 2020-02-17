@@ -1,0 +1,5 @@
+com\example\project\SpringBoot2Application.class
+com\example\project\Hospital.class
+com\example\project\HospitalService.class
+com\example\project\HospitalController.class
+com\example\project\HospitalRepository.class
